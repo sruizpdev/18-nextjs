@@ -1,10 +1,11 @@
 import Container from '../components/container';
-const About = () => {
+
+const Services = () => {
   return (
     <Container>
-      <h1>About</h1>
+      <h1>Services</h1>
     </Container>
   );
 };
 
-export default About;
+export default Services;
